@@ -3,8 +3,7 @@
 bandeiras Visa, Master, Elo, Amex e Hiper e executa duas operações para cada 
 bandeira débito e crédito. Quantos testes serão necessários para validação dessa 
 máquina e qual técnica a ser utilizada?
-
-Resposta: 15
+#Resposta: 15
 
 2) A bandeira Visa disponibilizou um novo range de bin´s no mercado que possui seis 
 dígitos 232425 a 232460. Quais os testes deverão ser feitos desse range de bins para 
@@ -15,7 +14,7 @@ b) 0,232425,232460,240000
 c) 232425,232460 
 d) 232424,232425,232459,232460,232461 
 
-Resposta: "C"
+#Resposta: "C"
 
 3) Cite uma abordagem desenvolvimento ágil e explique-a, responda em suas palavras.
 Resposta:
